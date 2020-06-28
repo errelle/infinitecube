@@ -1,0 +1,43 @@
+/*img*/
+body{
+  background-image : url("../img/cube.png");
+  background-size: 100%;
+}
+
+/*pressentation*/
+h1 {
+  font-weight: 100;
+  font-size: 2.5em;
+}
+
+/*presentation+input*/
+#content {
+  color: lightblue;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-family: 'Helvetica Neue', arial;
+  font-weight: 100;
+  text-align: center;
+}
+
+/*input*/
+#question {
+  background-color: lightblue;
+  margin: 20px;
+  padding: 10px;
+  width: 450px;
+  font-size:22px;
+}
+
+/*zone click+display*/
+.answer {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+/*answer text*/
+p#answer {
+  font-size: 30px;
+}
